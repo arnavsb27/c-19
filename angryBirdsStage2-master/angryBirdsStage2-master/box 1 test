@@ -1,0 +1,5 @@
+class Box extends BaseClass {
+constuctor(x,y,width,height){
+    super(x,y,width,heigt);
+    this.image = loadImage("sprites/wood1.png");
+}
